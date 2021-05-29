@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avishekchoudhary
+- 👋 Hi, I’m avishek
 - 👀 I’m interested in anything that incorporates both hardware as well as software
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on projects around the idea of ML and electronics
