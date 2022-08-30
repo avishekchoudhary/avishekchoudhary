@@ -5,7 +5,7 @@
 - 📫 How to reach me- 'achoudhary2_be19@thapar.edu' 
 
 <br><br>
-<h3 align="left">Languages and Tools:</h3>
+### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
